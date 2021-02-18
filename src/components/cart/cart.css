@@ -7,3 +7,15 @@
 .add-button:hover {
   background-color: #42118a !important;
 }
+
+.remove-button {
+  color: #007bff;
+  border: 0;
+  padding: 0;
+  text-decoration: underline;
+  background-color: unset;
+}
+
+.remove-button:hover {
+  color: #dc3545;
+}
