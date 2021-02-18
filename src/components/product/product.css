@@ -1,0 +1,14 @@
+.product {
+  width: 100%;
+  padding: 0.5rem;
+  margin: 1rem 0rem;
+  border-radius: 0.25rem;
+  color: #dc3545;
+  background-color: #e8eaeb;
+}
+
+.product:hover {
+  color: white;
+  background-color: #dc3545;
+  cursor: pointer;
+}
